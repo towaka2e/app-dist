@@ -1,9 +1,17 @@
-# 闪电狗 · 客户端下载
+# Shandiangou - Android Client
 
-Android 客户端安装包发布在本仓库的 Releases 页面。
+Android client packages are published on the [Releases](../../releases) page of this repository.
 
-- 支持架构：armeabi-v7a / arm64-v8a / x86_64
-- 系统要求：Android 8.0 及以上
-- 校验：每个版本的 Releases 说明中都会给出 SHA256
+## Download
 
-下载后若提示「未知来源」，请在系统设置中允许来自当前浏览器的安装。
+- Architectures: `armeabi-v7a` / `arm64-v8a` / `x86_64`
+- Requirements: Android 8.0 or later
+- Checksum: the SHA256 of each build is listed in its release notes
+
+Pick the latest release and download the `.apk` file.
+
+## Install
+
+If the system warns about unknown sources, allow installs from your browser in the system settings, then open the downloaded file.
+
+Updating over an existing installation keeps your data and configuration.
